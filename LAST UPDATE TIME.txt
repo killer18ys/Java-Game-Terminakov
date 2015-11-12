@@ -1,0 +1,18 @@
+Please, before archiving the game , update the following fields !!!
+==================================================================
+
+-Update date and time : 11/8/2015 ,15:37
+
+-Updated by: Val
+
+-Changes made: 
+
+*Fixed the damage, now the player is taking proper damage\
+*Added a fist marker to which one should aim to hit
+*Made the fisst maker spawn at different locations randomly
+
+TO DO:
+
+Fist marker should be delayed at a seperate thread avoiding delaying the whole program
+
+Damage should only be taken only when a fist marker is being hit
